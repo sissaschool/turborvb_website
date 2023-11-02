@@ -1,6 +1,6 @@
 # This workflow will deploy the sphinx document.
 
-name: sphinx-deploy-gh-pages
+name: sphinx-build-test
 
 on:
   push:
