@@ -24,7 +24,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Build the sphinx document.
-      working-directory: doc
+      #working-directory: doc
       run: |
         make html
 
