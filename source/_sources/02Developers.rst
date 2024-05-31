@@ -28,7 +28,7 @@ Dr. Michele Casula
     :height: 150px
 
 + `Personal website <http://www-ext.impmc.upmc.fr/~casula/>`__
-+ **Sorbonne Universit´e, CNRS, France**
++ **Sorbonne Universite, CNRS, France**
 
 Dr. Kosuke Nakano
 ###################################
@@ -37,8 +37,7 @@ Dr. Kosuke Nakano
     :height: 150px
 
 + `Personal website <https://www.kosuke-nakano-research.info>`__
-+ **International School for Advanced Studies (SISSA), Italy**
-+ **Japan Advanced Institute of Science and Technology (JAIST), Japan**
++ **National Institute for Materials Science (NIMS), Japan**
 
 Contributors (alphabetic order)
 -------------------------------------------
@@ -66,7 +65,6 @@ Dr. Andrea Tirelli
 .. figure:: /_static/01photos/at.jpg
     :height: 150px
 
-+ `Personal website <https://people.sissa.it/~atirelli/>`__
 + **International School for Advanced Studies (SISSA), Italy**
 
 Mr. Giacomo Tenti

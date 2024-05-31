@@ -12,13 +12,17 @@ Welcome to our TurboRVB website
 News
 ########################
 
-- | TurboRVB is now an `open-source project <https://github.com/sissaschool/turborvb>`_!
-- | A. Raghav et al. have published a paper in `J. Chem. Theory Comput. 19, 2222-2229 (2023) <https://doi.org/10.1021/acs.jctc.2c01141>`_. 
-- | E. Posenitskiy et al. have published a paper in `J. Chem. Phys. 158, 174801 (2023) <https://doi.org/10.1063/5.0148161>`_. 
-- | L. Monacelli et al. have published a paper in `Nat. Phys. 19, 845–850 (2023) <https://doi.org/10.1038/s41567-023-01960-5>`_. 
-- | A. Tirelli et al. have published a paper in `Phys. Rev. B, 106, L041105  (2022) <https://doi.org/10.1103/PhysRevB.103.L121110>`_. 
-- | K. Nakano et al. have published a paper in `J. Chem. Phys. 156, 034101 (2022) <https://doi.org/10.1063/5.0076302>`_. 
-- | K. Nakano et al. have published a paper in `Phys. Rev. B 103, L121110 (2021) <https://doi.org/10.1103/PhysRevB.103.L121110>`_. 
+
+- | K. Nakano, et al. have published a paper titled '*Beyond Single-Reference Fixed-Node Approximation in Ab Initio Diffusion Monte Carlo Using Antisymmetrized Geminal Power Applied to Systems with Hundreds of Electrons*' in `J. Chem. Theory Comput. in press (2024) <https://doi.org/10.1021/acs.jctc.4c00139>`_.
+- | K. Nakano et al. have published a paper titled '*Efficient calculation of unbiased atomic forces in ab initio variational Monte Carlo*' in `Phys. Rev. B  109, 205151 (2024) <https://doi.org/10.1103/PhysRevB.109.205151>`_.
+- | R. Taureau et al. have published a paper titled '*Quantum symmetrization transition in superconducting sulfur hydride from quantum Monte Carlo and path integral molecular dynamics*' in `Npj Comput. Mater. 10, 56 (2024) <https://doi.org/10.1038/s41524-024-01239-0>`_.
+- | K. Nakano et al. have published a paper titled '*TurboGenius: Python suite for high-throughput calculations of ab initio quantum Monte Carlo methods*' in `J. Chem. Phys. 159, 224801 (2023) <https://doi.org/10.1063/5.0179003>`_.
+- | TurboRVB is now an `open-source project <https://github.com/sissaschool/turborvb>`_! **ver.1.0.0** !!
+- | A. Raghav et al. have published a paper titled '*Toward Chemical Accuracy Using the Jastrow Correlated Antisymmetrized Geminal Power Ansatz*' in `J. Chem. Theory Comput. 19, 2222-2229 (2023) <https://doi.org/10.1021/acs.jctc.2c01141>`_. 
+- | L. Monacelli et al. have published a paper titled '*Quantum phase diagram of high-pressure hydrogen*' in `Nat. Phys. 19, 845–850 (2023) <https://doi.org/10.1038/s41567-023-01960-5>`_. 
+- | A. Tirelli et al. have published a paper titled '*High pressure hydrogen by machine learning and quantum Monte Carlo*' in `Phys. Rev. B, 106, L041105  (2022) <https://doi.org/10.1103/PhysRevB.106.L041105>`_. 
+- | K. Nakano et al. have published a paper titled '*Space-warp coordinate transformation for efficient ionic force calculations in quantum Monte Carlo*' in `J. Chem. Phys. 156, 034101 (2022) <https://doi.org/10.1063/5.0076302>`_. 
+- | K. Nakano et al. have published a paper titled '*Atomic forces by quantum Monte Carlo: Application to phonon dispersion calculations*' in `Phys. Rev. B 103, L121110 (2021) <https://doi.org/10.1103/PhysRevB.103.L121110>`_. 
   | This paper has been selected as an **Editors' Suggestion**.
 
 Features

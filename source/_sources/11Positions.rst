@@ -11,22 +11,14 @@ Opening positions
 
 .. _positions:
 
-Postdoc position at SISSA 
------------------------------------------------------------------------------------
-No opening position.
-
 
 Postdoc position at CNRS 
 -----------------------------------------------------------------------------------
-No opening position.
+Please contact Michele Casula.
 
-
-Postdoc position in TREX
------------------------------------------------------------------------------------
-No opening position.
 
 
 Postdoc position at NIMS
 -----------------------------------------------------------------------------------
-No opening position.
+Please contact Kosuke Nakano [NAKANO.Kosuke-at-nims.go.jp].
 

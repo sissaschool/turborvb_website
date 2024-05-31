@@ -9,17 +9,48 @@ Publications
 .. figure:: /_static/07logo/logo_sub.png
     :width: 500px
     
-.. Preprint
-.. ####################
+
+2024
+####################
+
+.. 2024NAK1
+.. article
+
+- | Beyond Single-Reference Fixed-Node Approximation in Ab Initio Diffusion Monte Carlo Using 
+  | Antisymmetrized Geminal Power Applied to Systems with Hundreds of Electrons
+  | K. Nakano, S. Sorella, D. Alfè, and A. Zen
+  | `J. Chem. Theory Comput. in press (2024) <https://doi.org/10.1021/acs.jctc.4c00139>`_
+
+.. 2024NAK2
+.. article
+
+- | Efficient calculation of unbiased atomic forces in ab initio variational Monte Carlo
+  | K. Nakano, M. Casula, and G. Tenti
+  | `Phys. Rev. B  109, 205151 (2024) <https://doi.org/10.1103/PhysRevB.109.205151>`_
+
+.. 2024TAU
+.. article
+
+- | Quantum symmetrization transition in superconducting sulfur hydride from quantum Monte Carlo 
+  | and path integral molecular dynamics
+  | R. Taureau, M. Cherubini, T. Morresi, and M. Casula
+  | `Npj Comput. Mater. 10, 56 (2024) <https://doi.org/10.1038/s41524-024-01239-0>`_
 
 2023
 ####################
+  
+.. 2023NAK
+.. article
+
+- | TurboGenius: Python suite for high-throughput calculations of ab initio quantum Monte Carlo methods
+  | K. Nakano, O. Kohulák, A. Raghav, M. Casula, and S. Sorella
+  | `J. Chem. Phys. 159, 224801 (2023) <https://doi.org/10.1063/5.0179003>`_
 
 .. 2023RAG
 .. article
 
 - | Toward Chemical Accuracy Using the Jastrow Correlated Antisymmetrized Geminal Power Ansatz,
-  | A. Raghav, R. Maezono, K. Hongo, S. Sorella, K. Nakano
+  | A. Raghav, R. Maezono, K. Hongo, S. Sorella, and K. Nakano
   | `J. Chem. Theory Comput. 19, 2222-2229 (2023) <https://doi.org/10.1021/acs.jctc.2c01141>`_
 
 .. 2023MON
