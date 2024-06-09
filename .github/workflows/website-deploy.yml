@@ -3,11 +3,14 @@
 name: sphinx-deploy-gh-pages
 
 on:
-  release:
-    types: [published]
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   sphinx-build:
+    if: github.repository == 'sissaschool/turborvb_website'
     runs-on: ubuntu-latest
     steps:
     - name: Install and Setup Python
