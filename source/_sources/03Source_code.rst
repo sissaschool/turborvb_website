@@ -30,7 +30,7 @@ TurboWorkflows
 
 User Manuals
 ----------------------------------
-**TurboRVB** manual is available from the `GitHub Pages <https://sissaschool.github.io/turborvb/>`__.
+**TurboRVB** User Manual is available from the `GitHub Pages <https://kousuke-nakano.github.io/turbotutorials/>`__.
 
 User Tutorials
 ----------------------------------
