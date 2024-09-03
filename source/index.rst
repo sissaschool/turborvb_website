@@ -8,15 +8,17 @@ Welcome to our TurboRVB website
 
 .. figure:: /_static/07logo/logo.png
     :width: 800px
-    
-News
+
+
+Most Recent Publications
 ########################
 
-
-- | K. Nakano, et al. have published a paper titled '*Beyond Single-Reference Fixed-Node Approximation in Ab Initio Diffusion Monte Carlo Using Antisymmetrized Geminal Power Applied to Systems with Hundreds of Electrons*' in `J. Chem. Theory Comput. in press (2024) <https://doi.org/10.1021/acs.jctc.4c00139>`_.
+- | G. Tenti et al. have published a paper titled '*Principal deuterium Hugoniot via quantum Monte Carlo and* :math:`\Delta` *-learning*' in `Phys. Rev. B 110, L041107 (2024) <\https://doi.org/10.1103/PhysRevB.110.L041107>`_.
+- | K. Nakano et al. have published a paper titled '*Beyond Single-Reference Fixed-Node Approximation in Ab Initio Diffusion Monte Carlo Using Antisymmetrized Geminal Power Applied to Systems with Hundreds of Electrons*' in `J. Chem. Theory Comput. 20, 4591-4604 (2024) <https://doi.org/10.1021/acs.jctc.4c00139>`_.
 - | K. Nakano et al. have published a paper titled '*Efficient calculation of unbiased atomic forces in ab initio variational Monte Carlo*' in `Phys. Rev. B  109, 205151 (2024) <https://doi.org/10.1103/PhysRevB.109.205151>`_.
 - | R. Taureau et al. have published a paper titled '*Quantum symmetrization transition in superconducting sulfur hydride from quantum Monte Carlo and path integral molecular dynamics*' in `Npj Comput. Mater. 10, 56 (2024) <https://doi.org/10.1038/s41524-024-01239-0>`_.
 - | K. Nakano et al. have published a paper titled '*TurboGenius: Python suite for high-throughput calculations of ab initio quantum Monte Carlo methods*' in `J. Chem. Phys. 159, 224801 (2023) <https://doi.org/10.1063/5.0179003>`_.
+- | F. Mouhat et al. have published a paper titled '*Thermal dependence of the hydrated proton and optimal proton transfer in the protonated water hexamer*' in `Nat. Comm. 14, 6930 (2023) <https://doi.org/10.1038/s41467-023-42366-4>`_.
 - | TurboRVB is now an `open-source project <https://github.com/sissaschool/turborvb>`_! **ver.1.0.0** !!
 - | A. Raghav et al. have published a paper titled '*Toward Chemical Accuracy Using the Jastrow Correlated Antisymmetrized Geminal Power Ansatz*' in `J. Chem. Theory Comput. 19, 2222-2229 (2023) <https://doi.org/10.1021/acs.jctc.2c01141>`_. 
 - | L. Monacelli et al. have published a paper titled '*Quantum phase diagram of high-pressure hydrogen*' in `Nat. Phys. 19, 845–850 (2023) <https://doi.org/10.1038/s41567-023-01960-5>`_. 
@@ -43,6 +45,19 @@ TurboRVB is distinguishable from other QMC codes in the following features:
   
 - The implementation of an adjoint algorithmic differentiation allows us to differentiate many-body wave functions efficiently and to perform structural optimizations and calculate molecular dynamics.
 
+Sponsors
+########################
+TurboRVB is now supported by the `HANAMI consortium <https://hanami-project.com>`_.
+
+.. figure:: /_static/07logo/HANAMI_logo.png
+	    :width: 400px
+
+TurboRVB project has been a flagship code of the `European TREX Center of Excellence <https://trex-coe.eu>`_.
+
+.. figure:: /_static/07logo/TREX_LOGO.png
+	    :width: 200px
+
+  
 .. toctree::
    :maxdepth: 1
    :caption: Contents:

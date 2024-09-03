@@ -13,13 +13,17 @@ Publications
 2024
 ####################
 
+- | Principal deuterium Hugoniot via quantum Monte Carlo and :math:`\Delta` -learning
+  | G. Tenti, K. Nakano, A. Tirelli, S. Sorella, M. Casula
+  | `Phys. Rev. B 110, L041107 (2024) <\https://doi.org/10.1103/PhysRevB.110.L041107>`_
+
 .. 2024NAK1
 .. article
-
+  
 - | Beyond Single-Reference Fixed-Node Approximation in Ab Initio Diffusion Monte Carlo Using 
   | Antisymmetrized Geminal Power Applied to Systems with Hundreds of Electrons
   | K. Nakano, S. Sorella, D. Alfè, and A. Zen
-  | `J. Chem. Theory Comput. in press (2024) <https://doi.org/10.1021/acs.jctc.4c00139>`_
+  | `J. Chem. Theory Comput. 20, 4591-4604 (2024) <https://doi.org/10.1021/acs.jctc.4c00139>`_
 
 .. 2024NAK2
 .. article
@@ -46,6 +50,10 @@ Publications
   | K. Nakano, O. Kohulák, A. Raghav, M. Casula, and S. Sorella
   | `J. Chem. Phys. 159, 224801 (2023) <https://doi.org/10.1063/5.0179003>`_
 
+- | Thermal dependence of the hydrated proton and optimal proton transfer in the protonated water hexamer
+  | F. Mouhat, M. Peria, T. Morresi, R. Vuilleumier, A. M. Saitta, M. Casula
+  | `Nat. Comm. 14, 6930 (2023) <https://doi.org/10.1038/s41467-023-42366-4>`_
+  
 .. 2023RAG
 .. article
 
