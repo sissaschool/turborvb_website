@@ -64,6 +64,7 @@ TurboRVB project has been a flagship code of the `European TREX Center of Excell
 
    _sources/02Developers.rst
    _sources/03Source_code.rst
+   _sources/12Documentations.rst
    _sources/10Workshops.rst
    _sources/11Positions.rst
    _sources/04Publications.rst
